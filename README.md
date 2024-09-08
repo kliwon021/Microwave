@@ -4,7 +4,7 @@
 * Langkah-langkah berkenalan dengan materi yaitu
 
           * silahkan klik Materi
-          * Download Materi
+          * Download Materi/View raw
           * Silahkan berkenalan dengan materi
 
 * Kemudian silahkan bisa isi link form berikut setelah membaca dan berkenalan dengan Microwave Link
