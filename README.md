@@ -2,7 +2,9 @@
 
 * Silahkan pahami dan berkenalan dengan materi Microwave Link.
 * Langkah-langkah berkenalan dengan materi yaitu
-*       silahkan klik Materi 
+          * silahkan klik Materi
+          * Download Materi
+          * Silahkan berkenalan dengan materi
 
 * Kemudian silahkan bisa isi link form berikut setelah membaca dan berkenalan dengan Microwave Link
 
