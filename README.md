@@ -1,5 +1,6 @@
 # Mengenal Microwave Link
 
+Selamat Pagi/Siang kelas X TJKT 1, 2, 3.
 * Silahkan pahami dan berkenalan dengan materi Microwave Link.
 * Langkah-langkah berkenalan dengan materi yaitu
 
