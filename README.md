@@ -11,4 +11,4 @@ Selamat Pagi/Siang kelas X TJKT 1, 2, 3.
 * Kemudian silahkan bisa isi link form berikut setelah membaca dan berkenalan dengan materi
 
 * Link X TJKT 2 : https://forms.gle/EpNVKa7asafAuZiv9
-* Link X TJKT 1 :
+* Link X TJKT 1 : https://forms.gle/JZaUfkcSENhH58qZ8
